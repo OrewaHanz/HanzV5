@@ -9,9 +9,9 @@ exports.run = {
          number: global.owner,
          about: 'Owner & Creator'
       }], m, {
-         org: 'Putbotz',
+         org: '4riessss',
          website: '-',
-         email: 'putrawan461@gmail.com'
+         email: 'h4nz00x77@gmail.com'
       })
    },
    error: false,
