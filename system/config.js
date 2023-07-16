@@ -1,8 +1,8 @@
 const { Function, Scraper } = new (require('@neoxr/neoxr-js'))
 // Owner number
-global.owner = '601137759884'
+global.owner = '60166745952'
 // Owner name
-global.owner_name = 'h4nz00x the last'
+global.owner_name = 'Emily Botz'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
@@ -26,7 +26,7 @@ global.timezone = 'Asia/Jakarta'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© 4riesssz Bot`
+global.botname = `© 𝐞𝐦𝐢𝐥𝐲𝐛𝐨𝐭𝐳 𖤐`
 // Footer text
 global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ッ'
 // Scraper
