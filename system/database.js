@@ -110,10 +110,10 @@ module.exports = (m) => {
       if (!('onlyprefix' in setting)) setting.onlyprefix = '+'
       if (!('owners' in setting)) setting.owners = ['994408364923']
       if (!isNumber(setting.lastReset)) setting.lastReset = new Date * 1
-      if (!('msg' in setting)) setting.msg = 'Hi +tag 🧋\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n\n*whatsapp bot by wa.me/601137759884 (4riesss)*'
+      if (!('msg' in setting)) setting.msg = 'Hi +tag 🧋\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n\n*whatsapp bot by wa.me/60166745952 (Emily)*'
       if (!isNumber(setting.menuStyle)) setting.menuStyle = 4
-      if (!('cover' in setting)) setting.cover = 'https://telegra.ph/file/9c78db92d3e2c5516596d.jpg'
-      if (!('link' in setting)) setting.link = 'https://chat.whatsapp.com/KuiUibgTL1j7zJnqGClQRz'
+      if (!('cover' in setting)) setting.cover = 'https://telegra.ph/file/17eda9f8d55402d678c2d.jpg'
+      if (!('link' in setting)) setting.link = 'https://chat.whatsapp.com/EsDH2D7vO7N7CqlY5dd2Q4'
    } else {
       global.db.setting = {
          autodownload: true,
@@ -134,10 +134,10 @@ module.exports = (m) => {
          onlyprefix: '+',
          owners: ['601169466091'],
          lastReset: new Date * 1,
-         msg: 'Hi +tag 🧋\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n\n*whatsapp bot by wa.me/601127240988 (4riesss)*',
+         msg: 'Hi +tag 🧋\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n\n*whatsapp bot by wa.me/60166745952 (Emily)*',
          menuStyle: 4,
-         cover: 'https://telegra.ph/file/9c78db92d3e2c5516596d.jpg',
-         link: 'https://chat.whatsapp.com/KuiUibgTL1j7zJnqGClQRz'
+         cover: 'https://telegra.ph/file/17eda9f8d55402d678c2d.jpg',
+         link: 'https://chat.whatsapp.com/EsDH2D7vO7N7CqlY5dd2Q4'
       }
    }
 }
