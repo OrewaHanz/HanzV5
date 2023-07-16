@@ -1,8 +1,8 @@
 const { Function, Scraper } = new (require('@neoxr/neoxr-js'))
 // Owner number
-global.owner = '601169466091'
+global.owner = '601127240988'
 // Owner name
-global.owner_name = 'Putbotz'
+global.owner_name = '4riessX'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
@@ -22,11 +22,11 @@ global.forwards = global.owner + '@c.us'
 // Get neoxr apikey by registering at https://api.neoxr.my.id
 global.Api = new (require('./neoxrApi'))(process.env.API_KEY)
 // Timezone (Default : Asia/Jakarta)
-global.timezone = 'Asia/Jakarta'
+global.timezone = 'Asia/Selangor'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© Putbotz`
+global.botname = `© HanzBotz`
 // Footer text
 global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ッ'
 // Scraper
