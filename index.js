@@ -20,11 +20,11 @@ function start() {
 	})
 }
 
-CFonts.say('Putbotz', {
+CFonts.say('Hanz', {
    font: 'tiny',
    align: 'center',
    colors: ['system']
-}), CFonts.say('Github : https://github.com/Putbotz', {
+}), CFonts.say('Github : https://github.com/OrewaHanz', {
    colors: ['system'],
    font: 'console',
    align: 'center'
