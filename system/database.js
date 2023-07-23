@@ -110,9 +110,9 @@ module.exports = (m) => {
       if (!('onlyprefix' in setting)) setting.onlyprefix = '+'
       if (!('owners' in setting)) setting.owners = ['994408364923']
       if (!isNumber(setting.lastReset)) setting.lastReset = new Date * 1
-      if (!('msg' in setting)) setting.msg = 'Hi +tag 🧋\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n\n*whatsapp bot by wa.me/601137759884 (4riesss)*'
+      if (!('msg' in setting)) setting.msg = 'Hi +tag 🧋\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n\n*whatsapp bot by wa.me/60103208380 (R4zerx)*'
       if (!isNumber(setting.menuStyle)) setting.menuStyle = 4
-      if (!('cover' in setting)) setting.cover = 'https://telegra.ph/file/9c78db92d3e2c5516596d.jpg'
+      if (!('cover' in setting)) setting.cover 'https://telegra.ph/file/1fc71c9b21f5099088d07.jpg,
       if (!('link' in setting)) setting.link = 'https://chat.whatsapp.com/KuiUibgTL1j7zJnqGClQRz'
    } else {
       global.db.setting = {
@@ -132,11 +132,11 @@ module.exports = (m) => {
          toxic: ["ajg", "ajig", "anjas", "anjg", "anjim", "anjing", "anjrot", "anying", "asw", "autis", "babi", "bacod", "bacot", "bagong", "bajingan", "bangsad", "bangsat", "bastard", "bego", "bgsd", "biadab", "biadap", "bitch", "bngst", "bodoh", "bokep", "cocote", "coli", "colmek", "comli", "dajjal", "dancok", "dongo", "fuck", "gelay", "goblog", "goblok", "guoblog", "guoblok", "hairul", "henceut", "idiot", "itil", "jamet", "jancok", "jembut", "jingan", "kafir", "kanjut", "kanyut", "keparat", "kntl", "kontol", "lana", "loli", "lont", "lonte", "mancing", "meki", "memek", "ngentod", "ngentot", "ngewe", "ngocok", "ngtd", "njeng", "njing", "njinx", "oppai", "pantek", "pantek", "peler", "pepek", "pilat", "pler", "pornhub", "pucek", "puki", "pukimak", "redhub", "sange", "setan", "silit", "telaso", "tempek", "tete", "titit", "toket", "tolol", "tomlol", "tytyd", "wildan", "xnxx"],
          online: true,
          onlyprefix: '+',
-         owners: ['601169466091'],
+         owners: ['60103208380'],
          lastReset: new Date * 1,
-         msg: 'Hi +tag 🧋\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n\n*whatsapp bot by wa.me/601127240988 (4riesss)*',
+         msg: 'Hi +tag 🧋\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n\n*whatsapp bot by wa.me/60103208380 (R4zerx)*',
          menuStyle: 4,
-         cover: 'https://telegra.ph/file/9c78db92d3e2c5516596d.jpg',
+         cover: 'https://telegra.ph/file/1fc71c9b21f5099088d07.jpg,
          link: 'https://chat.whatsapp.com/KuiUibgTL1j7zJnqGClQRz'
       }
    }
