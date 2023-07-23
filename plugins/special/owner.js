@@ -9,9 +9,9 @@ exports.run = {
          number: global.owner,
          about: 'Owner & Creator'
       }], m, {
-         org: 'h4nz00xx here',
-         website: 'github.com/OrewaHanz',
-         email: 'hanzoishere@gmail.com'
+         org: 'r4zerx here',
+         website: 'github.com/OrewaRazer',
+         email: 'padukar4zer@gmail.com'
       })
    },
    error: false,
